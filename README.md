@@ -1,5 +1,4 @@
 # CV/Resume Template By Ivan Marinov
-### Deployed via GitHub Pages --> https://i-m-marinov.github.io/
 
 ## Description:
 
